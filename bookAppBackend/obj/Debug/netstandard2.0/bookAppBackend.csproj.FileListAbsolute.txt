@@ -1,0 +1,9 @@
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\bin\Debug\netstandard2.0\bookAppBackend.deps.json
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\bin\Debug\netstandard2.0\bookAppBackend.dll
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\bin\Debug\netstandard2.0\bookAppBackend.pdb
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\obj\Debug\netstandard2.0\bookAppBackend.csprojAssemblyReference.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\obj\Debug\netstandard2.0\bookAppBackend.csproj.CoreCompileInputs.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\obj\Debug\netstandard2.0\bookAppBackend.AssemblyInfoInputs.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\obj\Debug\netstandard2.0\bookAppBackend.AssemblyInfo.cs
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\obj\Debug\netstandard2.0\bookAppBackend.dll
+C:\Users\week0\workspace\bookStoreApp\bookAppBackend\obj\Debug\netstandard2.0\bookAppBackend.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "bookAppUI/1.0.0": {
+        "dependencies": {
+          "bookAppBackend": "1.0.0"
+        },
+        "runtime": {
+          "bookAppUI.dll": {}
+        }
+      },
+      "bookAppBackend/1.0.0": {
+        "runtime": {
+          "bookAppBackend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bookAppUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bookAppBackend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

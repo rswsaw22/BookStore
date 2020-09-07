@@ -1,0 +1,16 @@
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppUI.exe
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppUI.deps.json
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppUI.runtimeconfig.json
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppUI.runtimeconfig.dev.json
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppUI.dll
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppUI.pdb
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.csprojAssemblyReference.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.csproj.CoreCompileInputs.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.AssemblyInfoInputs.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.AssemblyInfo.cs
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.dll
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.pdb
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.genruntimeconfig.cache
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppBackend.dll
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\bin\Debug\netcoreapp3.1\bookAppBackend.pdb
+C:\Users\week0\workspace\bookStoreApp\bookAppUI\obj\Debug\netcoreapp3.1\bookAppUI.csproj.CopyComplete
